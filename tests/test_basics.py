@@ -13,4 +13,4 @@ class TestSomething(unittest.TestCase):
         )
 
     def test_one(self):
-        self.assertEqual(len(self.df), 3)
+        self.assertEqual(len(self.df), 4)
